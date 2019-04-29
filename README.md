@@ -7,6 +7,7 @@ LadybugPHP "Modern" theme
 [![Latest Unstable Version](https://poser.pugx.org/raulfraile/ladybug-theme-modern/v/unstable.png)](https://packagist.org/packages/raulfraile/ladybug-theme-modern)
 
 "Modern" is a clean and beautiful theme for [LadybugPHP](https://github.com/raulfraile/ladybug) based on Twitter Bootstrap.
+This fork only makes text selectable.
 
 <img style="border:1px solid #ccc; padding:1px" src="https://github.com/raulfraile/ladybug-theme-modern/raw/master/Resources/doc/images/datetime.png" />
 
