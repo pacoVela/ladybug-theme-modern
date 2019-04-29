@@ -68,7 +68,7 @@
 {% set id = random(1000) %}
     <div class="accordion-group">
         <div class="accordion-heading">
-            <a class="accordion-toggle" data-toggle="collapse" data-parent="#subb" href="#c{{ id }}">
+            <span class="accordion-toggle" data-toggle="collapse" data-parent="#subb" href="#c{{ id }}">
                 <span class="label {{ _self.visibility_color(method.visibility) }}">
                     <i class="icon-eye-open icon-white"></i>
                 </span>
@@ -87,7 +87,7 @@
                 {% endfor %}{% endspaceless %})
                 </span>
 
-            </a>
+            </span>
         </div>
         {% if method.shortDescription is not empty %}
             <div id="c{{ id }}" class="accordion-body collapse">

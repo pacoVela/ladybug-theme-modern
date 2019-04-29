@@ -29,7 +29,7 @@ class ModernTheme extends AbstractTheme implements HtmlThemeInterface
      */
     public function getName()
     {
-        return 'Modern_selectable';
+        return 'Modern';
     }
 
     /**

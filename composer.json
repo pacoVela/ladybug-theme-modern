@@ -1,6 +1,6 @@
 {
-    "name": "pacoVela/ladybug-theme-modern",
-    "version": 1.1,
+    "name": "raulfraile/ladybug-theme-modern",
+    "version": "1.2",
     "type": "ladybug-theme",
     "description": "Fork of theme 'modern' for ladybug to make text selectable",
     "keywords": ["ladybug", "dump", "var_dump", "print_r", "theme", "selectable"],
@@ -9,6 +9,6 @@
         "raulfraile/ladybug-installer": "~1.0.0"
     },
     "extra": {
-        "ladybug_name": "Modern_selectable"
+        "ladybug_name": "Modern"
     }
 }

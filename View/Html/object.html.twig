@@ -25,7 +25,7 @@
 
     <div class="accordion-group">
         <div class="accordion-heading">
-            <a class="accordion-toggle" data-toggle="collapse" href="#object_data_{{ var.id }}">
+            <span class="accordion-toggle" data-toggle="collapse" href="#object_data_{{ var.id }}">
 
                 <span>Properties</span>
 
@@ -35,7 +35,7 @@
                     <span class="label label-important">{{ var.privatePropertiesNumber }}</span>
                 </span>
 
-            </a>
+            </span>
         </div>
         <div id="object_data_{{ var.id }}" class="accordion-body collapse {% if expanded %}in{% endif %}">
             <div class="accordion-inner">
