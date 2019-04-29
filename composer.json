@@ -1,6 +1,6 @@
 {
     "name": "raulfraile/ladybug-theme-modern",
-    "version": "1.2",
+    "version": "1.0.10",
     "type": "ladybug-theme",
     "description": "Fork of theme 'modern' for ladybug to make text selectable",
     "keywords": ["ladybug", "dump", "var_dump", "print_r", "theme", "selectable"],
